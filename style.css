@@ -1,0 +1,56 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: cursive;
+	color: #fff;
+}
+#loader {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
+    overflow: visible;
+    background: #447a06 url(panda1.gif) no-repeat center center;
+    /* #F7FBEA #F6F9EC */
+}
+.back{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	background: url(bak1.jpg);
+	background-size: cover;
+	z-index: -100;
+}
+.area{
+	font-size: 135px;
+	font-weight: bold;
+}
+.one{
+	padding-top: 2%;
+	padding-left: 50%;
+	color: black;
+}
+.det{
+	font-size: 24px;
+	letter-spacing: 2px;
+	margin-bottom: 150px;
+	padding: 15%;
+	padding-left: 50%;
+	color: black;
+}
+.imgarea{
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-bottom: 150px;
+}
+.img{
+	width: 100%;
+	margin-top: 80px;
+}
+.img{
+	width: 100%;
+}
+.right{
+	text-align: right;
+}
+
